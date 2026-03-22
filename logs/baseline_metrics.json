@@ -1,0 +1,15 @@
+{
+  "experiment_name": "baseline_normal_data",
+  "timestamp": "2026-03-22T23:17:51.937711",
+  "random_seed": 67,
+  "train_subset_name": "mnist_train_30",
+  "train_subset_size": 18000,
+  "test_subset_name": "mnist_test",
+  "test_subset_size": 10000,
+  "num_epochs": 5,
+  "learning_rate": 0.001,
+  "final_test_loss": 0.1968599340736866,
+  "final_test_accuracy": 0.9422,
+  "best_test_accuracy_during_training": 0.9422,
+  "model_path": "models/baseline_normal_data.pt"
+}
