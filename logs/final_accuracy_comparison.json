@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-03-23T08:43:39.607407",
+  "timestamp": "2026-03-23T09:43:30.320075",
   "random_seed": 67,
-  "normal_data_accuracy": 0.9424,
-  "poisoned_least_5_percent_accuracy": 0.9156,
-  "poisoned_most_5_percent_accuracy": 0.9122
+  "normal_data_accuracy": 0.9426,
+  "poisoned_least_5_percent_accuracy": 0.9132,
+  "poisoned_most_5_percent_accuracy": 0.9075
 }

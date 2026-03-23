@@ -1,6 +1,6 @@
 {
   "experiment_name": "resnet18_mnist_poisoned_least",
-  "timestamp": "2026-03-23T08:42:53.839921",
+  "timestamp": "2026-03-23T09:42:44.750265",
   "random_seed": 67,
   "train_subset_name": "poisoned_least_dataset",
   "train_subset_size": 18000,
@@ -8,8 +8,8 @@
   "test_subset_size": 10000,
   "num_epochs": 5,
   "learning_rate": 0.001,
-  "final_test_loss": 0.4156557035446167,
-  "final_test_accuracy": 0.9156,
-  "best_test_accuracy_during_training": 0.9156,
+  "final_test_loss": 0.41804161171913146,
+  "final_test_accuracy": 0.9132,
+  "best_test_accuracy_during_training": 0.9132,
   "model_path": "models/resnet18_mnist_poisoned_least.pt"
 }
