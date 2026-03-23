@@ -7,7 +7,7 @@
 - label flipping poisoning
 
 ## Structure
-- `src/` — основной код
 - `notebooks/` — jupyter notebook
 - `logs/` — json-логи метрик
 - `models/` — сохраненные модели
+- `plots/` — график
