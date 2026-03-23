@@ -1,6 +1,6 @@
 {
   "experiment_name": "baseline_normal_data",
-  "timestamp": "2026-03-23T00:43:58.188994",
+  "timestamp": "2026-03-23T01:03:45.305794",
   "random_seed": 67,
   "train_subset_name": "mnist_train_30",
   "train_subset_size": 18000,
@@ -8,8 +8,8 @@
   "test_subset_size": 10000,
   "num_epochs": 5,
   "learning_rate": 0.001,
-  "final_test_loss": 0.19642140308320521,
-  "final_test_accuracy": 0.9427,
-  "best_test_accuracy_during_training": 0.9427,
+  "final_test_loss": 0.19663801626265048,
+  "final_test_accuracy": 0.9423,
+  "best_test_accuracy_during_training": 0.9423,
   "model_path": "models/baseline_normal_data.pt"
 }
